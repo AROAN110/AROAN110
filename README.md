@@ -36,3 +36,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+<!-- 
+鸣谢：Wojusensei
+提供页面设计支持
+-->
