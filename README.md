@@ -1,98 +1,38 @@
 <!-- 
   if u see this: gl with ur dev! :)
-  🔪🐛ing...
+  纯手机开发者，夹缝生存中...
 -->
 
+## 👋 Hi, I'm AROAN110
+> 一个 14 岁的独立开发者，主攻 Python & Java。
 
-## 🌟  **My Skills**  
+### 🛠 My Setup (纯手机开发环境)
+![Android](https://img.shields.io/badge/-Android%2011-3DDC84?style=flat-square&logo=android&logoColor=fff)
+![Termux](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=linux&logoColor=fff)
+![Root](https://img.shields.io/badge/-Magisk%20(Root)-00AF9A?style=flat-square&logo=magisk&logoColor=fff)
+![Acode](https://img.shields.io/badge/-Acode-4B8BBE?style=flat-square&logo=code&logoColor=fff)
+![AIDE](https://img.shields.io/badge/-AIDE-3DDC84?style=flat-square&logo=androidstudio&logoColor=fff)
 
-![Py](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![Ts](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
-![React](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
-![Fapi](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
-![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
-![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
-![Ray](https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=fff)
-![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![GA](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
+### 🌟 My Skills
+![Python](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
-![pgsql](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=fff)
-![vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=fff)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=fff)
-![nj](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![🍥](https://img.shields.io/badge/Debian%2013-%20?style=flat-square&logo=debian&logoColor=white&color=A81D33)
-![macos](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
-[![vsc](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) 
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 
-### ✨  **Overall Status**
-
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=wojusensei&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-![wojusensei](https://count.getloli.com/get/@wojusensei)
-
-
-## ⛩️  **Join Touhou Utopian Ops**
-[![QQ](https://img.icons8.com/color/48/000000/qq.png)](https://qm.qq.com/cgi-bin/qm/qr?k=cI0er3PAf5cVGgmrz0JoNPr67vy3Sr-N&jump_from=webapi&authKey=bXt5xv3V7PcQhdKUBJGkxihzbCCElrSYLWaiKtPbSZ8p9JcwGAwml2h//y4Y2n5U)：This is a student organization focused on game development, music production, band arrangement, and ACG culture exchange. Founded by me in 2024, its primarily composed of college students. If ur interested in software development, bands, or ACG culture, ur welcome to join our QQ group. When applying, plz provide a detailed description of ur interest in joining, which will help our moderators review ur application.Looking forward to having u :)
-
-<!-- 
-  如果你看到这个：本组织在github的组织其实是个空壳，到目前为止还没有集中开源的项目。 编辑于2026.08.28
--->
-
-## 🦄  **My Activity Graph**
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://activity.yumeko.site/graph?username=Wojusensei&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://activity.yumeko.site/graph?username=Wojusensei&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://activity.yumeko.site/graph?username=Wojusensei&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-
-<!--
-<p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -- > 
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Wojusensei&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
-</p>
--->
-
-<!--
-
-
-## ⭐️  **Work Log**
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=277260326&image_size=auto&color_scheme=dark"
-      width="771" height="auto">
-    <img alt="Dashboard stats"
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=277260326&image_size=auto&color_scheme=light"
-      width="771" height="auto">
-  </picture>
+### ✨ Overall Status
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AROAN110&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="AROAN110's GitHub stats" />
 </p>
 
--->
+<!-- 如果加载太慢可以删掉这个统计数据 -->
 
-
-
-
-## 💫  **My Contributions**
-
+### 🐍 My Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Wojusensei/Wojusensei/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AROAN110/AROAN110/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AROAN110/AROAN110/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AROAN110/AROAN110/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<!-- 
-## test
-  [![Wojusensei's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Wojusensei&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Wojusensei's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=Wojusensei&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Wojusensei's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-  -->
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
